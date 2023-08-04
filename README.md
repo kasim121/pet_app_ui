@@ -1,16 +1,17 @@
-# pet_app
+# Pet App UI
 
-A new Flutter project.
+Pet App Assignment:
 
-## Getting Started
+Demo Video URL
 
-This project is a starting point for a Flutter application.
+https://github.com/kasim121/pet_app_ui/assets/53419295/045dc951-ed34-472a-9d3b-3dddcedb01a3
 
-A few resources to get you started if this is your first Flutter project:
+Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![WhatsApp Image 2023-08-05 at 1 06 39 AM](https://github.com/kasim121/pet_app_ui/assets/53419295/5a55e05a-2c58-45ed-b11a-24f75cd9a6f9)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+Image References:
+
+https://icons8.com/icons/set/svg
